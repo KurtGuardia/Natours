@@ -8,7 +8,11 @@
 @import "base/utilities";
 
 @import "components/button";
+@import "components/_composition.scss";
+@import "components/feature-box";
+@import "components/card";
 
-@import "layout/header.scss";
+@import "layout/_header.scss";
+@import "layout/_grid.scss";
 
 @import "pages/home";
